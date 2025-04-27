@@ -1,5 +1,6 @@
 {
   "name": "@hexlet/code",
+  "type": "module",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/adeloid/fullstack-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/adeloid/fullstack-javascript-project-44/actions)",
   "main": "index.js",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adeloid/fullstack-javascript-project-44/issues"
   },
-  "homepage": "https://github.com/adeloid/fullstack-javascript-project-44#readme"
+  "homepage": "https://github.com/adeloid/fullstack-javascript-project-44#readme",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
 }
