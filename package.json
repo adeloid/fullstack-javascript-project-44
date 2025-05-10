@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/adeloid/fullstack-javascript-project-44#readme",
   "bin": {
+    "brain-even": "bin/brain-even.js",
     "brain-games": "bin/brain-games.js"
   },
   "dependencies": {
